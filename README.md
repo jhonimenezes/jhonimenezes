@@ -2,10 +2,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <br>
 
-<!-- Letras Cabeçalho -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+conhecido+como:+Mr.+Jhoni+ou+Jhoni;)](https://git.io/typing-svg)
+<h1 align="center" color="blue";>Jhoni Menezes | Mr.Jhoni</h1>
+<br>
 <br>
 
+<!-- Letras Cabeçalho 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+conhecido+como:+Mr.+Jhoni+ou+Jhoni;)](https://git.io/typing-svg)
+<br>
+-->
 <!-- Gráfico -->
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonimenezes&theme=gotham)
 <br>
